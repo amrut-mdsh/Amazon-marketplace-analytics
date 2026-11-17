@@ -1,0 +1,67 @@
+{
+  "marketplace": {
+    "path": "Data/amazon_marketplace_aligned.csv",
+    "fields": [
+      [
+        "OrderDate",
+        "order_date",
+        "TEXT"
+      ],
+      [
+        "Year",
+        "year",
+        "INTEGER"
+      ],
+      [
+        "YearMonth",
+        "month",
+        "TEXT"
+      ],
+      [
+        "Category",
+        "category",
+        "TEXT"
+      ],
+      [
+        "Seller",
+        "seller",
+        "TEXT"
+      ],
+      [
+        "ProductID",
+        "product_id",
+        "TEXT"
+      ],
+      [
+        "Orders",
+        "orders",
+        "INTEGER"
+      ],
+      [
+        "Units Sold",
+        "units",
+        "INTEGER"
+      ],
+      [
+        "GMV",
+        "gmv",
+        "REAL"
+      ],
+      [
+        "Marketplace Revenue",
+        "platform_revenue",
+        "REAL"
+      ],
+      [
+        "Take Rate %",
+        "take_rate",
+        "REAL"
+      ],
+      [
+        "AOV",
+        "aov",
+        "REAL"
+      ]
+    ]
+  }
+}
